@@ -34,6 +34,6 @@ def run_ronin():
     print(command)
     if 'play' in command:
         talk('playing')
-        print('playing')
+        print('playing')        
 
 run_ronin()
